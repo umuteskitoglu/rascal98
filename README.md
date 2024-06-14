@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Umut
 - 👀 I’m interested in Programming,C#
-- 🌱 I’m currently learning .Net 6
+- 🌱 I’m currently working with .Net 8
 - 📫 You can reach me on my email. eskitoglu.umut@gmail.com
 
 <!---
